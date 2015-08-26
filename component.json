@@ -1,0 +1,21 @@
+{
+  "name": "retext-dutch",
+  "version": "0.0.0",
+  "description": "Dutch language support for retext",
+  "license": "MIT",
+  "keywords": [
+    "nlcst",
+    "retext",
+    "dutch",
+    "natural",
+    "language",
+    "parser"
+  ],
+  "dependencies": {
+    "wooorm/parse-dutch": "^2.0.0"
+  },
+  "repository": "wooorm/retext-dutch",
+  "scripts": [
+    "index.js"
+  ]
+}

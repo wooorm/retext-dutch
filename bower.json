@@ -1,0 +1,36 @@
+{
+  "name": "retext-dutch",
+  "main": "retext-dutch.js",
+  "description": "Dutch language support for retext",
+  "license": "MIT",
+  "keywords": [
+    "nlcst",
+    "retext",
+    "dutch",
+    "natural",
+    "language",
+    "parser"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wooorm/retext-dutch.git"
+  },
+  "authors": [
+    "Titus Wormer <tituswormer@gmail.com>"
+  ],
+  "ignore": [
+    ".*",
+    "*.log",
+    "*.md",
+    "build/",
+    "components/",
+    "coverage/",
+    "node_modules/",
+    "build.js",
+    "example.js",
+    "index.js",
+    "test.js",
+    "component.json",
+    "package.json"
+  ]
+}
